@@ -3,7 +3,7 @@
 **Version**: 2.0  
 **Status**: Production Ready  
 **Last Updated**: June 1, 2025
-
+latest
 ## 🧠 About MindLyfe
 
 MindLyfe is a comprehensive, AI-powered mental health and wellness platform designed to provide secure, accessible, and personalized mental health services. Built on modern microservices architecture with a focus on privacy, security, and clinical effectiveness, the platform serves individuals, healthcare providers, and organizations seeking comprehensive mental health solutions.
